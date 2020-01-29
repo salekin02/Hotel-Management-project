@@ -210,7 +210,7 @@ int main()
     cout<<"\t\t\t\t\t\t***********************************\n";
     cout<<"\t\t\t\t\t\t***********************************\n";
     cout<<"\t\t\t\t\t\t**                               **\n";
-    cout<<"\t\t\t\t\t\t**      Sayeman Beach Resort     **\n";
+    cout<<"\t\t\t\t\t\t**         Booking 24            **\n";
     cout<<"\t\t\t\t\t\t**                               **\n";
     cout<<"\t\t\t\t\t\t***********************************\n";
     cout<<"\t\t\t\t\t\t***********************************\n\n\n\n";
