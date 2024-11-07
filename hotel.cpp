@@ -390,7 +390,6 @@ main:
 }
 void food(customer x[])
 {
-    
     int q,room,f,cost=0,p=0;
     char n[2],m[2];
     cout<<"Menu Card:\n";
